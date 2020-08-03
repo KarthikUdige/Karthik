@@ -1,0 +1,4 @@
+1. Need to change the connection string in appsetting.json file.
+2. Need execute the DBScripts
+3. Extract the rar file.
+4. run the solution in visualstudio2019.
